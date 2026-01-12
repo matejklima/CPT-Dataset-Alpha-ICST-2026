@@ -1,0 +1,87 @@
+﻿id;Instance name;Algorithm design;System;DOI / url
+1;1_easy_existing_workflow;Algorithm design;A pathfinding algorithm in real-time strategy game based on Unity3D;https://doi.org/10.1109/ICALIP.2012.6376792
+2;2_easy_existing_workflow;Healthcare processes;A review on artificial intelligence techniques in electrical drives: Neural networks, fuzzy logic, and genetic algorithm;https://doi.org/10.1109/SmartTechCon.2017.8358335
+3;3_easy_existing_workflow;Development methodology;Activity Diagram for Hotel Room Booking;https://itsourcecode.com/uml/activity-diagram-for-hotel-room-booking/
+4;4_easy_existing_workflow;Smart agriculture;Agile Methodologies Applied to the Development of Internet of Things (IoT)-Based Systems: A Review;https://doi.org/10.3390/s23020790
+5;5_easy_existing_workflow;Business processes;Smart Agriculture Using IoT;http://dx.doi.org/10.13140/RG.2.2.17522.86726
+6;6_easy_existing_workflow;Situational Awareness Systems;Analysis of Loan Application Process Using Process Mining;https://portal.so.ucr.ac.cr/sites/default/files/documents/2017_Analysis%20of%20Loan%20Application%20Process%20Using%20Process%20Mining.pdf
+7;7_easy_existing_workflow;Smart agriculture;Assessment of shop floor layouts in the context of process plans with alternatives;https://doi.org/10.1590/0103-6513.20180078
+8;8_easy_existing_workflow;Autonomous vehicles;Automated Smart Hydroponic System using Internet of Things;http://doi.org/10.11591/ijece.v10i6.pp6389-6398
+9;9_easy_existing_workflow;Energy monitoring sensor network;Designing an Autonomous Vehicle Using Sensor Fusion Based on Path Planning and Deep Learning Algorithms;http://dx.doi.org/10.23919/SAIEE.2024.10551314
+10;10_easy_existing_workflow;Business processes;Design and implementation of a microcontroller-based adjustable voltage automatic battery charger;http://dx.doi.org/10.4314/njt.v36i4.32
+11;11_easy_existing_workflow;Business processes;Validation of business process models using swimlane diagrams;https://corescholar.libraries.wright.edu/infosys_scm/114/
+12;12_easy_existing_workflow;Energy monitoring sensor network;Autonomous Car Implementation Based on CAN Bus Protocol for IoT Applications;http://dx.doi.org/10.1109/ICCES.2018.8639206
+13;13_easy_existing_workflow;Energy monitoring sensor network;A smart IoT based system for monitoring and controlling the sub-station equipment;https://doi.org/10.1016/j.iot.2019.100085
+14;14_easy_existing_workflow;Transportation;Lifetime Modelling of Lead Acid Batteries;https://www.researchgate.net/publication/246687286_Lifetime_Modelling_of_Lead_Acid_Batteries
+15;15_easy_existing_workflow;Energy monitoring sensor network;A decentralized approach to formation flight routing of long-haul commercial flights;https://doi.org/10.1177/0954410018791068
+16;16_easy_existing_workflow;Robot control diagram;Reducing energy vulnerability based on energy services in the residential homes;http://dx.doi.org/10.1007/s12667-023-00610-2
+17;17_easy_existing_workflow;Robotic process automation;Development of a vacuum cleaner robot;https://doi.org/10.1016/j.aej.2018.07.005
+18;18_easy_existing_workflow;Vital signs measurement;Development of Robotic Process Automation for Scraping Prospective Customer Data and Implementation Haversine in PT. XYZ;https://doi.org/10.25126/jitecs.202381434
+19;19_easy_existing_workflow;Vital signs measurement;Digital Triage Assistant;https://cs.felk.cvut.cz/en/page/digital-triage-assistant
+20;20_easy_existing_workflow;Vital signs measurement;Digital Triage Assistant;https://cs.felk.cvut.cz/en/page/digital-triage-assistant
+21;21_easy_existing_workflow;Vital signs measurement;Digital Triage Assistant;https://cs.felk.cvut.cz/en/page/digital-triage-assistant
+22;22_easy_existing_workflow;Transportation;Digital Triage Assistant;https://cs.felk.cvut.cz/en/page/digital-triage-assistant
+23;23_easy_existing_workflow;Energy monitoring sensor network;Configuration Study of Electric Helicopters for Urban Air Mobility;https://doi.org/10.3390/aerospace8020054
+24;24_easy_existing_workflow;Smart city;IoT based real time energy monitoring system using Raspberry Pi;https://doi.org/10.1016/j.iot.2020.100292
+25;25_easy_existing_workflow;Measuring of environmental parameters;IoT Based System for Monitoring and Control of Gas Leaking;https://doi.org/10.1109/ICITAMEE50454.2020.9398384
+26;26_easy_existing_workflow;Business processes;IoT Based System for Monitoring and Control of Gas Leaking;https://doi.org/10.1109/ICITAMEE50454.2020.9398384
+27;27_easy_existing_workflow;Home automation;Guided Reasoning of Complex E-Business Process with Business Bug Patterns;https://doi.org/10.1109/ICEBE.2006.54
+28;28_easy_existing_workflow;Cyber-security;Implementation and Analysis of an IoT-Based Home Automation Framework;https://doi.org/10.4236/jcc.2021.93011
+29;29_easy_existing_workflow;IoT Framework;IoT Multi-Vector Cyberattack Detection Based on Machine Learning Algorithms: Traffic Features Analysis, Experiments, and Efficiency;https://doi.org/10.3390/a15070239
+30;30_easy_existing_workflow;Smart agriculture;Software-Defined Dew, Roof, Fog and Cloud (SD-DRFC) Framework for IoT Ecosystem: The Journey, Novel Framework Architecture, Simulation, and Use Cases;https://doi.org/10.1007/s42979-021-00521-y
+31;31_easy_existing_workflow;Smart city;Cost Effective Smart Hydroponic Monitoring and Controlling System Using IoT;http://dx.doi.org/10.4236/ica.2019.104010
+32;32_easy_existing_workflow;Smart city;Smart Garbage Segregator and IoT Based Waste Collection system;https://doi.org/10.1109/ICACITE51222.2021.9404692
+33;33_easy_existing_workflow;IoT for human safety;Smart Garbage Segregator and IoT Based Waste Collection system;https://doi.org/10.1109/ICACITE51222.2021.9404692
+34;34_easy_existing_workflow;IoT for human safety;An IoT-Based Mobile System for Safety Monitoring of Lone Workers;https://doi.org/10.3390/iot2030024
+35;35_easy_existing_workflow;Measuring of environmental parameters;An IoT-Based Mobile System for Safety Monitoring of Lone Workers;https://doi.org/10.3390/iot2030024
+36;36_easy_existing_workflow;Home automation;Data-driven iot-based water quality monitoring and potability classification system in rural areas;https://doi.org/10.1109/ICTC49870.2020.9289512
+37;37_easy_existing_workflow;Smart agriculture;Internet of Things-Based Intelligent Smart Home Control System;https://doi.org/10.1155/2021/9928254
+38;38_easy_existing_workflow;Home automation;Smart irrigation system for environmental sustainability in Africa: An Internet of Everything (IoE) approach;https://doi.org/10.3934/mbe.2019273
+39;39_easy_existing_workflow;Home automation;LoRa and Server Based Home Automation using the Internet of Things;https://doi.org/10.1016/j.jksuci.2020.12.020
+40;40_easy_existing_workflow;Critical system;Critical system 4;Source anonymized
+41;41_easy_existing_workflow;Critical system;Critical system 5;Source anonymized
+42;42_easy_existing_workflow;Smart city;A Unified Metering System Deployed for Water and Energy Monitoring in Smart City;https://doi.org/10.1109/ACCESS.2023.3299825
+43;43_easy_existing_workflow;Scheduling;A Unified Metering System Deployed for Water and Energy Monitoring in Smart City;https://doi.org/10.1109/ACCESS.2023.3299825
+44;44_easy_existing_workflow;Smart agriculture;Intelligent workflow scheduling for Big Data applications in IoT cloud computing environments;https://doi.org/10.1007/s10586-021-03291-7
+45;45_easy_existing_workflow;Smart agriculture;Multiparametric Monitoring in Equatorian Tomato Greenhouses (I): Wireless Sensor Network Benchmarking;https://doi.org/10.3390/s18082555
+46;46_easy_existing_workflow;Smart agriculture;Multiparametric Monitoring in Equatorian Tomato Greenhouses (I): Wireless Sensor Network Benchmarking;https://doi.org/10.3390/s18082555
+47;47_easy_existing_workflow;Vital signs measurement;Multiparametric Monitoring in Equatorian Tomato Greenhouses (I): Wireless Sensor Network Benchmarking;https://doi.org/10.3390/s18082555
+48;48_easy_existing_workflow;Business processes;Multi-Parameter Cardiac Remote Monitoring System based on Android;https://doi.org/10.18831/djcse.in/2016021003
+49;49_easy_existing_workflow;Automation in transportation;Online Medical Appointment Scheduling System;https://riunet.upv.es/handle/10251/88831
+50;50_easy_existing_workflow;Healthcare processes;E-Parking Reservation system based on IoT for smart cities;http://dx.doi.org/10.15680/IJIRSET.2019.0802044
+51;51_easy_existing_workflow;Localization;IoT-based rescue-mission planning and management system;https://www.policie.cz/clanek/projekt-patrac.aspx
+52;52_easy_existing_workflow;Localization;IoT-based rescue-mission planning and management system;https://www.policie.cz/clanek/projekt-patrac.aspx
+53;53_easy_existing_workflow;Business processes;IoT-based rescue-mission planning and management system;https://www.policie.cz/clanek/projekt-patrac.aspx
+54;54_easy_existing_workflow;Algorithm design;Prioritized Process Test: An Alternative to Current Process Testing Strategies;https://doi.org/10.1142/S0218194019500335
+55;55_easy_existing_workflow;Smart agriculture;Product assembly quality inspection of gap spacing using machine vision and human-centered AR visualization;https://doi.org/10.1016/j.cie.2025.111531
+56;56_easy_existing_workflow;IoT for human safety;Towards Autonomy in Agriculture: Design and Prototyping of a Robotic Vehicle with Seed Selector;http://dx.doi.org/10.1109/ICRAI.2016.7791225
+57;57_easy_existing_workflow;Smart agriculture;Iot Based Smart Helmet for Mining Industry Application;https://www.researchgate.net/publication/340261013_Iot_Based_Smart_Helmet_for_Mining_Industry_Application
+58;58_easy_existing_workflow;Home automation;Smart Agricultural System - IoT;https://github.com/PremKumarAmbrose/Smart-Agriculture-system-IoT-Arduino-YUN
+59;59_easy_existing_workflow;Home automation;Smart Homes using Internet of Things;https://www.irjet.net/archives/V7/i12/IRJET-V7I12363.pdf
+60;60_easy_existing_workflow;Business processes;Smart water consumption measurement system for houses using IoT and cloud computing;https://doi.org/10.1007/s10661-020-08535-4
+61;61_easy_existing_workflow;Business processes;Software Process Improvement Tools Implementation;https://dspace.cvut.cz/handle/10467/76246
+62;62_easy_existing_workflow;Telerehabilitation;Using Business Process Modelling to Improve Student Recruitment in UK Higher Education;https://link.springer.com/chapter/10.1007/978-3-030-04849-5_11
+63;63_easy_existing_workflow;Home automation;A Sensor Network Utilizing Consumer Wearables for Telerehabilitation of Post-Acute COVID-19 Patients;https://doi.org/10.1109/jiot.2022.3188913
+64;64_easy_existing_workflow;Robot control diagram;WiFi-Based Home IoT Communication System;https://doi.org/10.6109/jicce.2020.18.1.8
+65;65_easy_existing_workflow;Business processes;The Control System Design of Aircraft Wheel Device of Driving Rotary;https://doi.org/10.1088/1742-6596/1986/1/012102
+66;66_easy_existing_workflow;Business processes;Translation Center;https://cdt.europa.eu/en/centres-workflow
+67;67_easy_existing_workflow;Home automation;Vkládání posudků;https://procesy.is.cvut.cz/process.xhtml?pid=19674&tenant=7&type=process
+68;68_easy_existing_workflow;Home automation;Voice and Gesture Based Smart Home Automation using Raspberry PI;https://www.jetir.org/papers/JETIR1905I66.pdf
+69;69_easy_existing_workflow;Computer networks;Web-based Smart Home Automation: PLCcontrolled Implementation;https://aperta.ulakbim.gov.tr/record/66347
+70;70_easy_existing_workflow;Environmental Monitoring;Web Service Discovery Framework;http://dx.doi.org/10.1155/2015/576463
+71;71_easy_existing_workflow;Environmental Monitoring;An Alertness-Adjustable Cloud/Fog IoT Solution for Timely Environmental Monitoring Based on Wildfire Risk Forecasting;http://dx.doi.org/10.3390/en13143693
+72;72_easy_existing_workflow;;An Alertness-Adjustable Cloud/Fog IoT Solution for Timely Environmental Monitoring Based on Wildfire Risk Forecasting;http://dx.doi.org/10.3390/en13143693
+101;101_medium_existing_workflow;Business processes;A Social Force-Based Model for Pedestrian Evacuation with Static Guidance in Emergency Situations;https://doi.org/10.3390/fire8010030
+102;102_medium_existing_workflow;Business processes;AR-Rescue;https://doi.org/10.1109/ICDH67620.2025.00036
+103;103_medium_existing_workflow;Autonomous vehicles;Validation of business process models using swimlane diagrams;https://corescholar.libraries.wright.edu/infosys_scm/114/
+104;104_medium_existing_workflow;Autonomous vehicles;Autonomous Car Implementation Based on CAN Bus Protocol for IoT Applications;http://dx.doi.org/10.1109/ICCES.2018.8639206
+105;105_medium_existing_workflow;Measuring of environmental parameters;An integrated fire detection system using IoT and image processing technique for smart cities;https://doi.org/10.1016/j.scs.2020.102332
+106;106_medium_existing_workflow;Critical system;A Low-Cost Home Automation System Based-On Internet of Things;https://jtec.utem.edu.my/jtec/article/view/2379
+107;107_medium_existing_workflow;Critical system;Critical system 2;Source anonymized
+108;108_medium_existing_workflow;Critical system;Critical system 3;Source anonymized
+109;109_medium_existing_workflow;Smart city;Critical system 7;Source anonymized
+110;110_medium_existing_workflow;Localization;A qualitative exploration of patient flow in a developing Caribbean emergency department;https://doi.org/10.1101/2020.05.29.20110759
+111;111_medium_existing_workflow;Smart agriculture;Towards Autonomy in Agriculture: Design and Prototyping of a Robotic Vehicle with Seed Selector;http://dx.doi.org/10.1109/ICRAI.2016.7791225
+112;112_medium_existing_workflow;Digitalized state administration;Tool support for verifying UML activity diagrams;https://doi.org/10.1109/TSE.2004.33
+201;201_hard_existing_workflow;Critical system;Critical system 1;Source anonymized
+202;202_hard_existing_workflow;Critical system;Critical system 6;Source anonymized
